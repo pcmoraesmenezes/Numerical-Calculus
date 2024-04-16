@@ -53,5 +53,3 @@ root = secant_method(f, 0, 1)
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize the README further with additional sections or information as needed.
